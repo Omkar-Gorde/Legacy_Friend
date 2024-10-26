@@ -1,0 +1,51 @@
+Policy_title,policy_info,Target_group,feedback,Sentiment,Confidence
+Water Conservation Policy,"Brief information about the policy, targeting specific needs in the community.",Females,This will improve lives for many people.,POSITIVE,0.999759853
+Farm Price Policy,"Brief information about the policy, targeting specific needs in the community.",Senior Citizens,Seems aimed more at middle class.,NEGATIVE,0.995243132
+Renewable Energy Policy,"Brief information about the policy, targeting specific needs in the community.",Senior Citizens,This policy is outdated.,NEGATIVE,0.999809563
+Agricultural Innovation Strategy,"Brief information about the policy, targeting specific needs in the community.",Lower Economic Class,I doubt this policy will make much difference.,NEGATIVE,0.998301625
+Renewable Energy Policy,"Brief information about the policy, targeting specific needs in the community.",Senior Citizens,This policy is outdated.,NEGATIVE,0.999809563
+Social Security Expansion Act,"Brief information about the policy, targeting specific needs in the community.",Taxpayers,Not sure how well this will be implemented.,NEGATIVE,0.999132812
+Water Conservation Policy,"Brief information about the policy, targeting specific needs in the community.",Minorities,Fantastic support for those who need it.,POSITIVE,0.999882817
+Urban Development Strategy,"Brief information about the policy, targeting specific needs in the community.",Small Business Owners,Very inclusive and supportive.,POSITIVE,0.999859095
+Energy Conservation Act,"Brief information about the policy, targeting specific needs in the community.",Small Business Owners,Doesn’t seem like the best solution.,NEGATIVE,0.999752462
+Water Conservation Policy,"Brief information about the policy, targeting specific needs in the community.",Rich Class,I think this is a waste of resources.,NEGATIVE,0.999778688
+National Digital Literacy Program,"Brief information about the policy, targeting specific needs in the community.",LGBTQ Community,Hope this policy brings real change.,POSITIVE,0.999515533
+National Tourism Boost Initiative,"Brief information about the policy, targeting specific needs in the community.",Upper Economic Class,"Unnecessary focus, could have been avoided.",NEGATIVE,0.699591768
+Safe Transportation Policy,"Brief information about the policy, targeting specific needs in the community.",Taxpayers,More beneficial for rural areas.,POSITIVE,0.998972893
+Tax Reform Bill,"Brief information about the policy, targeting specific needs in the community.",Females,I doubt this policy will make much difference.,NEGATIVE,0.998301625
+Public Transport Modernization,"Brief information about the policy, targeting specific needs in the community.",Healthcare Workers,Important step forward for our country.,POSITIVE,0.999835372
+Tax Reform Bill,"Brief information about the policy, targeting specific needs in the community.",Females,Great for economic stability.,POSITIVE,0.999788105
+Policy for Economic Upliftment of the Poor,"Brief information about the policy, targeting specific needs in the community.",Senior Citizens,"Much needed policy, very timely.",POSITIVE,0.999294281
+"National Policy for the Empowerment of Women, Ministry of Women & Child Development","Brief information about the policy, targeting specific needs in the community.",Upper Economic Class,Finally a focus on marginalized communities.,POSITIVE,0.684517086
+National Population Policy,"Brief information about the policy, targeting specific needs in the community.",Environment Advocates,This policy is very beneficial to the community.,POSITIVE,0.999810994
+Disability Support Policy,"Brief information about the policy, targeting specific needs in the community.",Small Business Owners,A step in the right direction.,POSITIVE,0.999854326
+Policy on Wildlife Protection,"Brief information about the policy, targeting specific needs in the community.",Poor Class,Empowering the vulnerable through this policy.,POSITIVE,0.9951846
+National Policy for Rare Diseases,"Brief information about the policy, targeting specific needs in the community.",Environment Advocates,Empowering the vulnerable through this policy.,POSITIVE,0.9951846
+Affordable Healthcare Bill,"Brief information about the policy, targeting specific needs in the community.",Senior Citizens,Not sure how effective this policy will be.,NEGATIVE,0.998648465
+Senior Citizen Welfare Policy,"Brief information about the policy, targeting specific needs in the community.",Students,"Could have been planned better, limited impact.",NEGATIVE,0.99961412
+Drug Abuse Prevention Policy,"Brief information about the policy, targeting specific needs in the community.",Upper Economic Class,This policy is very beneficial to the community.,POSITIVE,0.999810994
+Safe Transportation Policy,"Brief information about the policy, targeting specific needs in the community.",Families,Targets important social issues.,POSITIVE,0.990733266
+"National Policy for the Empowerment of Women, Ministry of Women & Child Development","Brief information about the policy, targeting specific needs in the community.",Youth,Encouraging self-reliance among people.,POSITIVE,0.999431908
+National Nutrition Policy,"Brief information about the policy, targeting specific needs in the community.",Students,"Much needed, especially for poor class.",POSITIVE,0.926234543
+Climate Change Action Plan,"Brief information about the policy, targeting specific needs in the community.",Students,Probably won’t impact the rich class.,NEGATIVE,0.999449909
+Technology Access Policy,"Brief information about the policy, targeting specific needs in the community.",Healthcare Workers,Seems mostly targeted at urban areas.,NEGATIVE,0.995110452
+LGBTQ Rights Protection Act,"Brief information about the policy, targeting specific needs in the community.",Children,Hope this policy lasts long-term.,POSITIVE,0.987583339
+Farm Price Policy,"Brief information about the policy, targeting specific needs in the community.",Students,Probably won’t impact the rich class.,NEGATIVE,0.999449909
+Renewable Energy Policy,"Brief information about the policy, targeting specific needs in the community.",Senior Citizens,Great for economic stability.,POSITIVE,0.999788105
+Policy for Small Business Development,"Brief information about the policy, targeting specific needs in the community.",Poor Class,Seems aimed more at middle class.,NEGATIVE,0.995243132
+Disaster Relief Management Policy,"Brief information about the policy, targeting specific needs in the community.",Taxpayers,Aims to bring equality.,POSITIVE,0.997557878
+LGBTQ Rights Protection Act,"Brief information about the policy, targeting specific needs in the community.",Children,A step in the right direction.,POSITIVE,0.999854326
+Mental Health Awareness Initiative,"Brief information about the policy, targeting specific needs in the community.",Senior Citizens,Feels like just another political move.,NEGATIVE,0.997096777
+Tobacco Control Bill,"Brief information about the policy, targeting specific needs in the community.",Healthcare Workers,Provides essential services.,POSITIVE,0.999752939
+National Population Policy,"Brief information about the policy, targeting specific needs in the community.",Small Business Owners,Not sure if this will reach the people who need it most.,NEGATIVE,0.998770654
+Basic Income Support Policy,"Brief information about the policy, targeting specific needs in the community.",Families,This policy is very beneficial to the community.,POSITIVE,0.999810994
+Social Security Expansion Act,"Brief information about the policy, targeting specific needs in the community.",Lower Economic Class,Addresses a real problem effectively.,POSITIVE,0.999217391
+Policy on Wildlife Protection,"Brief information about the policy, targeting specific needs in the community.",Youth,This policy is outdated.,NEGATIVE,0.999809563
+"National Policy for Children, Ministry of Women & Child Development","Brief information about the policy, targeting specific needs in the community.",Lower Economic Class,Empowering the vulnerable through this policy.,POSITIVE,0.9951846
+Water Conservation Policy,"Brief information about the policy, targeting specific needs in the community.",Taxpayers,Feels like just another political move.,NEGATIVE,0.997096777
+Energy Conservation Act,"Brief information about the policy, targeting specific needs in the community.",Poor Class,Not sure if this will reach the people who need it most.,NEGATIVE,0.798770654
+Technology Access Policy,"Brief information about the policy, targeting specific needs in the community.",Females,"Great initiative, much needed for today's time.",POSITIVE,0.999817789
+Policy for Employment Generation,"Brief information about the policy, targeting specific needs in the community.",Students,More beneficial for rural areas.,POSITIVE,0.998972893
+Technology Access Policy,"Brief information about the policy, targeting specific needs in the community.",Females,Targets important social issues.,POSITIVE,0.990733266
+Basic Income Support Policy,"Brief information about the policy, targeting specific needs in the community.",Lower Economic Class,Shows a forward-thinking approach.,POSITIVE,0.799823272
+Healthcare for All Program,"Brief information about the policy, targeting specific needs in the community.",LGBTQ Community,This policy is very beneficial to the community.,POSITIVE,0.999810994

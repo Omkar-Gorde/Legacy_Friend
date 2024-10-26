@@ -1,0 +1,151 @@
+Policy_title,policy_info,Target_group,feedback,Sentiment,Confidence
+Water Conservation Policy,"Brief information about the policy, targeting specific needs in the community.",Females,This will improve lives for many people.,POSITIVE,0.9997
+Farm Price Policy,"Brief information about the policy, targeting specific needs in the community.",Senior Citizens,Seems aimed more at middle class.,NEGATIVE,0.9952
+Renewable Energy Policy,"Brief information about the policy, targeting specific needs in the community.",Senior Citizens,This policy is outdated.,NEGATIVE,0.9998
+Agricultural Innovation Strategy,"Brief information about the policy, targeting specific needs in the community.",Lower Economic Class,I doubt this policy will make much difference.,NEGATIVE,0.9983
+Renewable Energy Policy,"Brief information about the policy, targeting specific needs in the community.",Senior Citizens,This policy is outdated.,NEGATIVE,0.9998
+Social Security Expansion Act,"Brief information about the policy, targeting specific needs in the community.",Taxpayers,Not sure how well this will be implemented.,NEGATIVE,0.9991
+Water Conservation Policy,"Brief information about the policy, targeting specific needs in the community.",Minorities,Fantastic support for those who need it.,POSITIVE,0.9998
+Urban Development Strategy,"Brief information about the policy, targeting specific needs in the community.",Small Business Owners,Very inclusive and supportive.,POSITIVE,0.9998
+Energy Conservation Act,"Brief information about the policy, targeting specific needs in the community.",Small Business Owners,Doesn’t seem like the best solution.,NEGATIVE,0.9997
+Water Conservation Policy,"Brief information about the policy, targeting specific needs in the community.",Rich Class,I think this is a waste of resources.,NEGATIVE,0.9997
+Senior Assistance Program,"Brief information about the policy, targeting specific needs in the community.",Students,Likely beneficial for targeted groups.,NEGATIVE,0.984653
+Youth Empowerment Strategy,"Brief information about the policy, targeting specific needs in the community.",Rural Residents,Seems to favor certain groups.,NEGATIVE,0.892275
+Education for All Initiative,"Brief information about the policy, targeting specific needs in the community.",Rural Residents,Might lack practical implementation.,POSITIVE,0.812602
+Youth Empowerment Strategy,"Brief information about the policy, targeting specific needs in the community.",Veterans,A forward-thinking initiative.,NEGATIVE,0.869828
+Education for All Initiative,"Brief information about the policy, targeting specific needs in the community.",Rural Residents,Crucial support for the underprivileged.,POSITIVE,0.782042
+Tech for Rural Areas,"Brief information about the policy, targeting specific needs in the community.",Urban Youth,Likely beneficial for targeted groups.,POSITIVE,0.923244
+Climate Action Plan,"Brief information about the policy, targeting specific needs in the community.",Minority Communities,Might lack practical implementation.,NEGATIVE,0.921806
+Youth Empowerment Strategy,"Brief information about the policy, targeting specific needs in the community.",Urban Youth,Encouraging for a brighter future.,POSITIVE,0.654537
+Public Health Support,"Brief information about the policy, targeting specific needs in the community.",Urban Youth,Crucial support for the underprivileged.,NEGATIVE,0.727187
+Healthcare Expansion Policy,"Brief information about the policy, targeting specific needs in the community.",Disabled Persons,Likely beneficial for targeted groups.,POSITIVE,0.808926
+Youth Empowerment Strategy,"Brief information about the policy, targeting specific needs in the community.",Students,Might lack practical implementation.,POSITIVE,0.914924
+Healthcare Expansion Policy,"Brief information about the policy, targeting specific needs in the community.",Farmers,A forward-thinking initiative.,POSITIVE,0.987736
+Tech for Rural Areas,"Brief information about the policy, targeting specific needs in the community.",Farmers,Encouraging for a brighter future.,POSITIVE,0.772332
+Tech for Rural Areas,"Brief information about the policy, targeting specific needs in the community.",Disabled Persons,Encouraging for a brighter future.,NEGATIVE,0.968806
+Education for All Initiative,"Brief information about the policy, targeting specific needs in the community.",Healthcare Workers,Seems to favor certain groups.,POSITIVE,0.824636
+Affordable Housing Plan,"Brief information about the policy, targeting specific needs in the community.",Veterans,Crucial support for the underprivileged.,NEGATIVE,0.820979
+Climate Action Plan,"Brief information about the policy, targeting specific needs in the community.",Rural Residents,A forward-thinking initiative.,POSITIVE,0.962297
+Public Health Support,"Brief information about the policy, targeting specific needs in the community.",General Public,Might lack practical implementation.,NEGATIVE,0.912443
+Tech for Rural Areas,"Brief information about the policy, targeting specific needs in the community.",Students,Could bring substantial improvements.,POSITIVE,0.934581
+Healthcare Expansion Policy,"Brief information about the policy, targeting specific needs in the community.",General Public,Seems to favor certain groups.,POSITIVE,0.79391
+Climate Action Plan,"Brief information about the policy, targeting specific needs in the community.",Veterans,Crucial support for the underprivileged.,NEGATIVE,0.970304
+Affordable Housing Plan,"Brief information about the policy, targeting specific needs in the community.",Veterans,A progressive step for all.,POSITIVE,0.921806
+Education for All Initiative,"Brief information about the policy, targeting specific needs in the community.",Urban Youth,Likely beneficial for targeted groups.,POSITIVE,0.925245
+Tech for Rural Areas,"Brief information about the policy, targeting specific needs in the community.",Minority Communities,Might lack practical implementation.,POSITIVE,0.812602
+Employment Boost Program,"Brief information about the policy, targeting specific needs in the community.",General Public,A progressive step for all.,POSITIVE,0.785706
+Climate Action Plan,"Brief information about the policy, targeting specific needs in the community.",Farmers,Encouraging for a brighter future.,POSITIVE,0.682429
+Senior Assistance Program,"Brief information about the policy, targeting specific needs in the community.",Migrants,Could bring substantial improvements.,POSITIVE,0.774057
+Healthcare Expansion Policy,"Brief information about the policy, targeting specific needs in the community.",Migrants,Encouraging for a brighter future.,NEGATIVE,0.968806
+Tech for Rural Areas,"Brief information about the policy, targeting specific needs in the community.",Healthcare Workers,Encouraging for a brighter future.,POSITIVE,0.911681
+Healthcare Expansion Policy,"Brief information about the policy, targeting specific needs in the community.",Disabled Persons,Might lack practical implementation.,POSITIVE,0.896974
+Youth Empowerment Strategy,"Brief information about the policy, targeting specific needs in the community.",Disabled Persons,Encouraging for a brighter future.,POSITIVE,0.687491
+Education for All Initiative,"Brief information about the policy, targeting specific needs in the community.",Veterans,Not sure if this meets current needs.,NEGATIVE,0.744388
+Affordable Housing Plan,"Brief information about the policy, targeting specific needs in the community.",Farmers,Unlikely to address root causes.,POSITIVE,0.896974
+Tech for Rural Areas,"Brief information about the policy, targeting specific needs in the community.",Farmers,Seems to favor certain groups.,POSITIVE,0.688056
+Senior Assistance Program,"Brief information about the policy, targeting specific needs in the community.",Minority Communities,Crucial support for the underprivileged.,NEGATIVE,0.869828
+Affordable Housing Plan,"Brief information about the policy, targeting specific needs in the community.",General Public,Likely beneficial for targeted groups.,NEGATIVE,0.697754
+Public Health Support,"Brief information about the policy, targeting specific needs in the community.",Students,Unlikely to address root causes.,NEGATIVE,0.832447
+Affordable Housing Plan,"Brief information about the policy, targeting specific needs in the community.",Healthcare Workers,A forward-thinking initiative.,POSITIVE,0.869828
+Youth Empowerment Strategy,"Brief information about the policy, targeting specific needs in the community.",Rural Residents,A forward-thinking initiative.,POSITIVE,0.76483
+Healthcare Expansion Policy,"Brief information about the policy, targeting specific needs in the community.",Veterans,Likely beneficial for targeted groups.,NEGATIVE,0.96083
+Youth Empowerment Strategy,"Brief information about the policy, targeting specific needs in the community.",Students,Likely beneficial for targeted groups.,POSITIVE,0.939832
+Food Security Enhancement,"Brief information about the policy, targeting specific needs in the community.",Veterans,Unlikely to address root causes.,POSITIVE,0.775972
+Food Security Enhancement,"Brief information about the policy, targeting specific needs in the community.",General Public,Could bring substantial improvements.,POSITIVE,0.739359
+Senior Assistance Program,"Brief information about the policy, targeting specific needs in the community.",Disabled Persons,Encouraging for a brighter future.,NEGATIVE,0.745697
+Education for All Initiative,"Brief information about the policy, targeting specific needs in the community.",Farmers,Not sure if this meets current needs.,POSITIVE,0.963271
+Youth Empowerment Strategy,"Brief information about the policy, targeting specific needs in the community.",Veterans,Might lack practical implementation.,POSITIVE,0.872372
+Education for All Initiative,"Brief information about the policy, targeting specific needs in the community.",Urban Youth,A forward-thinking initiative.,NEGATIVE,0.683981
+Tech for Rural Areas,"Brief information about the policy, targeting specific needs in the community.",Minority Communities,Unlikely to address root causes.,NEGATIVE,0.657678
+Affordable Housing Plan,"Brief information about the policy, targeting specific needs in the community.",Minority Communities,Likely beneficial for targeted groups.,NEGATIVE,0.907686
+Youth Empowerment Strategy,"Brief information about the policy, targeting specific needs in the community.",Veterans,Encouraging for a brighter future.,NEGATIVE,0.820979
+Tech for Rural Areas,"Brief information about the policy, targeting specific needs in the community.",Students,Might lack practical implementation.,POSITIVE,0.690726
+Youth Empowerment Strategy,"Brief information about the policy, targeting specific needs in the community.",General Public,Might lack practical implementation.,POSITIVE,0.789375
+Affordable Housing Plan,"Brief information about the policy, targeting specific needs in the community.",Minority Communities,Crucial support for the underprivileged.,POSITIVE,0.672705
+Employment Boost Program,"Brief information about the policy, targeting specific needs in the community.",Rural Residents,Could bring substantial improvements.,NEGATIVE,0.892977
+Climate Action Plan,"Brief information about the policy, targeting specific needs in the community.",Migrants,Likely beneficial for targeted groups.,NEGATIVE,0.903808
+Education for All Initiative,"Brief information about the policy, targeting specific needs in the community.",Farmers,Might lack practical implementation.,POSITIVE,0.892795
+Employment Boost Program,"Brief information about the policy, targeting specific needs in the community.",General Public,Seems to favor certain groups.,NEGATIVE,0.871451
+Public Health Support,"Brief information about the policy, targeting specific needs in the community.",General Public,Unlikely to address root causes.,POSITIVE,0.768806
+Public Health Support,"Brief information about the policy, targeting specific needs in the community.",Rural Residents,A progressive step for all.,NEGATIVE,0.724813
+Senior Assistance Program,"Brief information about the policy, targeting specific needs in the community.",Migrants,Unlikely to address root causes.,POSITIVE,0.88639
+Affordable Housing Plan,"Brief information about the policy, targeting specific needs in the community.",General Public,Crucial support for the underprivileged.,POSITIVE,0.667918
+Climate Action Plan,"Brief information about the policy, targeting specific needs in the community.",Disabled Persons,A progressive step for all.,POSITIVE,0.968806
+Public Health Support,"Brief information about the policy, targeting specific needs in the community.",General Public,Might lack practical implementation.,POSITIVE,0.687888
+Climate Action Plan,"Brief information about the policy, targeting specific needs in the community.",General Public,A progressive step for all.,POSITIVE,0.871451
+Senior Assistance Program,"Brief information about the policy, targeting specific needs in the community.",Minority Communities,Encouraging for a brighter future.,POSITIVE,0.928937
+Food Security Enhancement,"Brief information about the policy, targeting specific needs in the community.",Farmers,Crucial support for the underprivileged.,POSITIVE,0.73828
+Tech for Rural Areas,"Brief information about the policy, targeting specific needs in the community.",Students,Might lack practical implementation.,POSITIVE,0.937121
+Employment Boost Program,"Brief information about the policy, targeting specific needs in the community.",Migrants,A forward-thinking initiative.,NEGATIVE,0.965488
+Public Health Support,"Brief information about the policy, targeting specific needs in the community.",Minority Communities,Unlikely to address root causes.,POSITIVE,0.897812
+Healthcare Expansion Policy,"Brief information about the policy, targeting specific needs in the community.",Migrants,Could bring substantial improvements.,NEGATIVE,0.697754
+Education for All Initiative,"Brief information about the policy, targeting specific needs in the community.",Urban Youth,Encouraging for a brighter future.,NEGATIVE,0.892977
+Senior Assistance Program,"Brief information about the policy, targeting specific needs in the community.",General Public,Not sure if this meets current needs.,NEGATIVE,0.73828
+Food Security Enhancement,"Brief information about the policy, targeting specific needs in the community.",Minority Communities,Encouraging for a brighter future.,POSITIVE,0.968229
+Food Security Enhancement,"Brief information about the policy, targeting specific needs in the community.",Urban Youth,Could bring substantial improvements.,NEGATIVE,0.700053
+Employment Boost Program,"Brief information about the policy, targeting specific needs in the community.",General Public,Encouraging for a brighter future.,NEGATIVE,0.960251
+Senior Assistance Program,"Brief information about the policy, targeting specific needs in the community.",Rural Residents,Could bring substantial improvements.,NEGATIVE,0.942562
+Employment Boost Program,"Brief information about the policy, targeting specific needs in the community.",Veterans,Encouraging for a brighter future.,NEGATIVE,0.727187
+Public Health Support,"Brief information about the policy, targeting specific needs in the community.",Urban Youth,Might lack practical implementation.,POSITIVE,0.690726
+Food Security Enhancement,"Brief information about the policy, targeting specific needs in the community.",Students,Not sure if this meets current needs.,POSITIVE,0.667918
+Employment Boost Program,"Brief information about the policy, targeting specific needs in the community.",Students,Not sure if this meets current needs.,POSITIVE,0.686227
+Affordable Housing Plan,"Brief information about the policy, targeting specific needs in the community.",Migrants,Not sure if this meets current needs.,NEGATIVE,0.73177
+Food Security Enhancement,"Brief information about the policy, targeting specific needs in the community.",Migrants,Might lack practical implementation.,NEGATIVE,0.89476
+Senior Assistance Program,"Brief information about the policy, targeting specific needs in the community.",Minority Communities,Encouraging for a brighter future.,NEGATIVE,0.714995
+Food Security Enhancement,"Brief information about the policy, targeting specific needs in the community.",Veterans,Unlikely to address root causes.,POSITIVE,0.67971
+Tech for Rural Areas,"Brief information about the policy, targeting specific needs in the community.",Students,Seems to favor certain groups.,POSITIVE,0.700053
+Healthcare Expansion Policy,"Brief information about the policy, targeting specific needs in the community.",Farmers,Likely beneficial for targeted groups.,POSITIVE,0.965488
+Tech for Rural Areas,"Brief information about the policy, targeting specific needs in the community.",Farmers,Encouraging for a brighter future.,NEGATIVE,0.968229
+Affordable Housing Plan,"Brief information about the policy, targeting specific needs in the community.",Rural Residents,A forward-thinking initiative.,POSITIVE,0.704271
+Tech for Rural Areas,"Brief information about the policy, targeting specific needs in the community.",Migrants,Could bring substantial improvements.,POSITIVE,0.781413
+Public Health Support,"Brief information about the policy, targeting specific needs in the community.",Rural Residents,Encouraging for a brighter future.,NEGATIVE,0.924842
+Tech for Rural Areas,"Brief information about the policy, targeting specific needs in the community.",Farmers,Unlikely to address root causes.,NEGATIVE,0.726123
+Food Security Enhancement,"Brief information about the policy, targeting specific needs in the community.",Veterans,Likely beneficial for targeted groups.,NEGATIVE,0.892977
+Senior Assistance Program,"Brief information about the policy, targeting specific needs in the community.",Disabled Persons,Likely beneficial for targeted groups.,POSITIVE,0.739056
+Employment Boost Program,"Brief information about the policy, targeting specific needs in the community.",Disabled Persons,Likely beneficial for targeted groups.,POSITIVE,0.892795
+Employment Boost Program,"Brief information about the policy, targeting specific needs in the community.",Disabled Persons,Could bring substantial improvements.,NEGATIVE,0.969243
+Youth Empowerment Strategy,"Brief information about the policy, targeting specific needs in the community.",Rural Residents,A forward-thinking initiative.,POSITIVE,0.928937
+Affordable Housing Plan,"Brief information about the policy, targeting specific needs in the community.",Minority Communities,Seems to favor certain groups.,POSITIVE,0.727187
+Affordable Housing Plan,"Brief information about the policy, targeting specific needs in the community.",General Public,Might lack practical implementation.,NEGATIVE,0.933208
+Senior Assistance Program,"Brief information about the policy, targeting specific needs in the community.",Rural Residents,Could bring substantial improvements.,NEGATIVE,0.726123
+Youth Empowerment Strategy,"Brief information about the policy, targeting specific needs in the community.",Farmers,Likely beneficial for targeted groups.,NEGATIVE,0.687491
+Food Security Enhancement,"Brief information about the policy, targeting specific needs in the community.",Healthcare Workers,Not sure if this meets current needs.,NEGATIVE,0.939832
+Climate Action Plan,"Brief information about the policy, targeting specific needs in the community.",Students,Crucial support for the underprivileged.,POSITIVE,0.768806
+Tech for Rural Areas,"Brief information about the policy, targeting specific needs in the community.",General Public,A forward-thinking initiative.,POSITIVE,0.654537
+Youth Empowerment Strategy,"Brief information about the policy, targeting specific needs in the community.",Rural Residents,A progressive step for all.,NEGATIVE,0.950961
+Climate Action Plan,"Brief information about the policy, targeting specific needs in the community.",Rural Residents,Likely beneficial for targeted groups.,NEGATIVE,0.914924
+Public Health Support,"Brief information about the policy, targeting specific needs in the community.",Rural Residents,Could bring substantial improvements.,NEGATIVE,0.686227
+Affordable Housing Plan,"Brief information about the policy, targeting specific needs in the community.",Rural Residents,Encouraging for a brighter future.,POSITIVE,0.968806
+Healthcare Expansion Policy,"Brief information about the policy, targeting specific needs in the community.",Disabled Persons,A forward-thinking initiative.,POSITIVE,0.726123
+Youth Empowerment Strategy,"Brief information about the policy, targeting specific needs in the community.",General Public,Encouraging for a brighter future.,NEGATIVE,0.871451
+Food Security Enhancement,"Brief information about the policy, targeting specific needs in the community.",Students,Likely beneficial for targeted groups.,POSITIVE,0.739056
+Employment Boost Program,"Brief information about the policy, targeting specific needs in the community.",Farmers,Could bring substantial improvements.,NEGATIVE,0.872372
+Youth Empowerment Strategy,"Brief information about the policy, targeting specific needs in the community.",Migrants,Likely beneficial for targeted groups.,POSITIVE,0.928937
+Senior Assistance Program,"Brief information about the policy, targeting specific needs in the community.",General Public,Likely beneficial for targeted groups.,NEGATIVE,0.733092
+Healthcare Expansion Policy,"Brief information about the policy, targeting specific needs in the community.",Urban Youth,Not sure if this meets current needs.,POSITIVE,0.687491
+Education for All Initiative,"Brief information about the policy, targeting specific needs in the community.",Migrants,Crucial support for the underprivileged.,NEGATIVE,0.733092
+Public Health Support,"Brief information about the policy, targeting specific needs in the community.",Migrants,Likely beneficial for targeted groups.,POSITIVE,0.96816
+Affordable Housing Plan,"Brief information about the policy, targeting specific needs in the community.",Healthcare Workers,A progressive step for all.,POSITIVE,0.89476
+Youth Empowerment Strategy,"Brief information about the policy, targeting specific needs in the community.",Urban Youth,Encouraging for a brighter future.,NEGATIVE,0.924081
+Affordable Housing Plan,"Brief information about the policy, targeting specific needs in the community.",Migrants,Could bring substantial improvements.,POSITIVE,0.657678
+Employment Boost Program,"Brief information about the policy, targeting specific needs in the community.",General Public,A forward-thinking initiative.,NEGATIVE,0.965875
+Climate Action Plan,"Brief information about the policy, targeting specific needs in the community.",Veterans,Seems to favor certain groups.,POSITIVE,0.977002
+Senior Assistance Program,"Brief information about the policy, targeting specific needs in the community.",Minority Communities,Unlikely to address root causes.,POSITIVE,0.912443
+Climate Action Plan,"Brief information about the policy, targeting specific needs in the community.",Disabled Persons,Could bring substantial improvements.,POSITIVE,0.724813
+Food Security Enhancement,"Brief information about the policy, targeting specific needs in the community.",Rural Residents,Unlikely to address root causes.,NEGATIVE,0.900588
+Food Security Enhancement,"Brief information about the policy, targeting specific needs in the community.",Disabled Persons,A progressive step for all.,NEGATIVE,0.710417
+Youth Empowerment Strategy,"Brief information about the policy, targeting specific needs in the community.",Students,Likely beneficial for targeted groups.,NEGATIVE,0.848147
+Healthcare Expansion Policy,"Brief information about the policy, targeting specific needs in the community.",Rural Residents,Seems to favor certain groups.,NEGATIVE,0.762409
+Tech for Rural Areas,"Brief information about the policy, targeting specific needs in the community.",Urban Youth,Might lack practical implementation.,POSITIVE,0.688056
+Senior Assistance Program,"Brief information about the policy, targeting specific needs in the community.",Veterans,Unlikely to address root causes.,NEGATIVE,0.962297
+Food Security Enhancement,"Brief information about the policy, targeting specific needs in the community.",Healthcare Workers,Might lack practical implementation.,NEGATIVE,0.832447
+Public Health Support,"Brief information about the policy, targeting specific needs in the community.",Healthcare Workers,A forward-thinking initiative.,NEGATIVE,0.661972
+Public Health Support,"Brief information about the policy, targeting specific needs in the community.",Students,Encouraging for a brighter future.,POSITIVE,0.970304
+Climate Action Plan,"Brief information about the policy, targeting specific needs in the community.",General Public,Crucial support for the underprivileged.,NEGATIVE,0.762409
+Tech for Rural Areas,"Brief information about the policy, targeting specific needs in the community.",Disabled Persons,Likely beneficial for targeted groups.,POSITIVE,0.667918
+Youth Empowerment Strategy,"Brief information about the policy, targeting specific needs in the community.",Migrants,Crucial support for the underprivileged.,POSITIVE,0.717907
+Senior Assistance Program,"Brief information about the policy, targeting specific needs in the community.",Urban Youth,Seems to favor certain groups.,POSITIVE,0.687888
+Food Security Enhancement,"Brief information about the policy, targeting specific needs in the community.",General Public,Might lack practical implementation.,NEGATIVE,0.958701
+Public Health Support,"Brief information about the policy, targeting specific needs in the community.",Students,Crucial support for the underprivileged.,POSITIVE,0.87683
+Affordable Housing Plan,"Brief information about the policy, targeting specific needs in the community.",Urban Youth,Crucial support for the underprivileged.,NEGATIVE,0.733092
+Public Health Support,"Brief information about the policy, targeting specific needs in the community.",General Public,Unlikely to address root causes.,NEGATIVE,0.785706
